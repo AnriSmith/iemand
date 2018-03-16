@@ -1,10 +1,10 @@
 # iemand
 
-The goal of iemand is to ...
+The goal of iemand is to teach us how to use packages
 
 ## Installation
 
-You can install the released version of iemand from [CRAN](https://CRAN.R-project.org) with:
+You can install the released version of iemand from https://travis-ci.org/AnriSmith/iemand
 
 ``` r
 install.packages("iemand")
