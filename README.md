@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/AnriSmith/iemand.svg?branch=master)](https://travis-ci.org/AnriSmith/iemand)
-
+[![Coverage status](https://codecov.io/gh/AnriSmith/iemand/branch/master/graph/badge.svg)](https://codecov.io/github/AnriSmith/iemand?branch=master)
 # iemand
 
 The goal of iemand is to teach us how to use packages
