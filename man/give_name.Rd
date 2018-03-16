@@ -7,7 +7,7 @@
 give_name(sex = "female")
 }
 \arguments{
-\item{sex}{}
+\item{sex}{female or male}
 }
 \value{
 returns an assigned name given gender (name)

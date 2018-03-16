@@ -1,6 +1,6 @@
 #' function with data
 #'
-#' @param sex
+#' @param sex female or male
 #'
 #' @return returns an assigned name given gender (name)
 #' @export
