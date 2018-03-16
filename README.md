@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/AnriSmith/iemand.svg?branch=master)](https://travis-ci.org/AnriSmith/iemand)
+
 # iemand
 
 The goal of iemand is to teach us how to use packages
