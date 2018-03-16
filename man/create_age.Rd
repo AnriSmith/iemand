@@ -2,10 +2,13 @@
 % Please edit documentation in R/creat_age.R
 \name{create_age}
 \alias{create_age}
-\title{Title}
+\title{Introduction to R packages; creating a Fake People}
 \usage{
 create_age()
 }
+\value{
+Return a value for your age
+}
 \description{
-Title
+Introduction to R packages; creating a Fake People
 }
